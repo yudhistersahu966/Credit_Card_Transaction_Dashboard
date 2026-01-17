@@ -13,4 +13,4 @@ Customer Management – Analyze customer demographics, spending behavior, and se
 Click any button to access the respective interactive dashboard and gain actionable insights.
 
 ## Home page
-<img width="1409" height="800" alt="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/HOME%20PAGE.pdf" />
+<img width="1409" height="800" alt="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/HOME%20PAGE_page-0001.jpg" />
