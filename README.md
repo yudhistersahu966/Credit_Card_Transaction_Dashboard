@@ -14,3 +14,4 @@ Click any button to access the respective interactive dashboard and gain actiona
 
 ## Home page
 <img width="1409" height="800" alt="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/HOME%20PAGE.png" />
+- Dashboard Interaction <a href = "https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/HOME%20PAGE.png">View Dashboard</a>
