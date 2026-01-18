@@ -116,7 +116,7 @@ Total Interest Earned: 45M
 
 Customer Score: 3.19
 
-➡️ Indicates a financially active and stable customer base.
+## ➡️ Indicates a financially active and stable customer base.
 
 🔹 Revenue by Gender
 
@@ -124,7 +124,7 @@ Male Customers: 30M
 
 Female Customers: 25M
 
-📌 Insight: Male customers contribute slightly higher revenue.
+## 📌 Insight: Male customers contribute slightly higher revenue.
 
 🔹 Revenue by Age Group
 
@@ -136,7 +136,7 @@ Female Customers: 25M
 
 20–30 & 60+: Lowest contribution
 
-📌 Insight: Middle-aged customers are the most valuable segment.
+## 📌 Insight: Middle-aged customers are the most valuable segment.
 
 🔹 Weekly Revenue Trend
 
@@ -154,7 +154,7 @@ Self-employed & Govt: ~8M each
 
 Retirees: Lowest contribution
 
-📌 Insight: Business professionals are high-value customers.
+## 📌 Insight: Business professionals are high-value customers.
 
 🔹 Top 5 Revenue-Generating States
 
@@ -168,7 +168,7 @@ FL
 
 NJ
 
-📌 Insight: Urban and commercial states generate higher card revenue.
+## 📌 Insight: Urban and commercial states generate higher card revenue.
 
 🔹 Revenue by Marital Status
 
@@ -186,7 +186,7 @@ Medium-income: Stable
 
 Low-income: Lowest
 
-📌 Insight: Income level directly impacts spending behavior.
+## 📌 Insight: Income level directly impacts spending behavior.
 
 🔹 Key Takeaways (Customer Dashboard)
 
