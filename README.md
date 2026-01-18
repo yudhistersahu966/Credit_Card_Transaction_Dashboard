@@ -104,7 +104,7 @@ Job Type: Businessmen (17M) and White-collar employees (10M) are top contributor
 ✔ Online usage and premium cards are underutilized
 
 ## 📌 DASHBOARD 2: Credit Card Customer Report
-<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/CREDIT%20CARD%20REPORT.png" />
+<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/CUSTOMER%20TRANSACTION.png" />
 
 🔹 Customer Overview Metrics
 
