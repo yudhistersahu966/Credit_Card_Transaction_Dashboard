@@ -28,9 +28,9 @@ The analysis is divided into two dashboards:
 ## Credit Card Customer Report
 
 ## 📌 DASHBOARD 1: Credit Card Transaction Report
-<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/HOME%20PAGE.png" />
+<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/CREDIT%20CARD%20REPORT.png" />
 
-🔹 Key Metrics Overview
+##🔹 Key Metrics Overview
 
 Total Revenue: 55.3M
 
@@ -40,7 +40,7 @@ Interest Earned: 7.84M
 
 Total Transactions: 656K
 
-➡️ Indicates strong card usage and healthy interest-based income.
+## ➡️ Indicates strong card usage and healthy interest-based income.
 
 🔹 Quarterly Revenue & Transaction Trend
 
@@ -54,7 +54,7 @@ Q1–Q2 show steady growth.
 
 Q4 shows a decline in both revenue and transaction volume.
 
-📌 Insight: Seasonal slowdown in Q4 — opportunity for festive offers and promotions.
+## 📌 Insight: Seasonal slowdown in Q4 — opportunity for festive offers and promotions.
 
 🔹 Revenue by Card Usage Type
 
@@ -64,7 +64,7 @@ Chip: 17M
 
 Online: 3M (lowest)
 
-📌 Insight: Customers still prefer physical card usage; online transactions have growth potential.
+## 📌 Insight: Customers still prefer physical card usage; online transactions have growth potential.
 
 🔹 Revenue by Card Category
 
@@ -76,7 +76,7 @@ Gold: 2M
 
 Platinum: 1M
 
-📌 Insight: Blue Card users form the core customer base; premium card adoption is low.
+## 📌 Insight: Blue Card users form the core customer base; premium card adoption is low.
 
 🔹 Spending by Expenditure Type
 
@@ -88,7 +88,7 @@ Fuel & Grocery: 9M each
 
 Travel: 6M
 
-📌 Insight: Utility and lifestyle spending drive most transactions.
+## 📌 Insight: Utility and lifestyle spending drive most transactions.
 
 🔹 Customer Segmentation Insights
 
@@ -96,14 +96,16 @@ Education: Graduates contribute the highest revenue (22M).
 
 Job Type: Businessmen (17M) and White-collar employees (10M) are top contributors.
 
-🔹 Key Takeaways (Transaction Dashboard)
+## 🔹 Key Takeaways (Transaction Dashboard)
 
 ✔ Swipe transactions dominate
 ✔ Blue Card generates maximum revenue
 ✔ Q3 is the most profitable quarter
 ✔ Online usage and premium cards are underutilized
 
-📌 DASHBOARD 2: Credit Card Customer Report
+## 📌 DASHBOARD 2: Credit Card Customer Report
+<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src="https://github.com/yudhistersahu966/Credit_Card_Transaction_Dashboard/blob/main/CREDIT%20CARD%20REPORT.png" />
+
 🔹 Customer Overview Metrics
 
 Total Revenue: 55.3M
